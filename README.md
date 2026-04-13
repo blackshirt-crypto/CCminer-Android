@@ -21,7 +21,7 @@ Open Termux and run these commands:
 
 ```bash
 # Download the setup script
-curl -O https://raw.githubusercontent.com/scratcher14/CCminer-Android/main/setup_ccminer.sh
+curl -O https://raw.githubusercontent.com/blackshirt-crypto/CCminer-Android/main/setup_ccminer.sh
 
 # Make it executable
 chmod +x setup_ccminer.sh
@@ -186,7 +186,7 @@ git pull
 
 ## 🆘 Support & Resources
 
-- **GitHub Repository**: [https://github.com/scratcher14/CCminer-Android](https://github.com/scratcher14/CCminer-Android)
+- **GitHub Repository**: [https://github.com/blackshirt-crypto/CCminer-Android](https://github.com/blackshirt-crypto/CCminer-Android)
 - **Verus Community**: [https://verus.io](https://verus.io)
 - **Cell Hasher**: [https://cellhasher.com/](https://cellhasher.com/) - Mobile mining community, resources, and [Discord server](https://discord.gg/ncCpaAEN)
 - **VaultFarm YouTube**: [Tutorial videos and mining guides](https://youtube.com/@vaultfarm?si=CY_Vt_PhnMqvhx8P)
