@@ -3,7 +3,7 @@
 #########################################
 # CCMiner Automated Setup for Termux
 # For Verus Coin Mining
-# GitHub: https://github.com/scratcher14/CCminer-Android
+# GitHub: https://github.com/blackshirt-crypto/CCminer-Android
 #########################################
 
 echo "========================================="
@@ -204,7 +204,7 @@ cat > reconfigure.sh << 'RECONFIGURE_EOF'
 #########################################
 # CCMiner Reconfiguration Script
 # Easily update mining settings
-# GitHub: https://github.com/scratcher14/CCminer-Android
+# GitHub: https://github.com/blackshirt-crypto/CCminer-Android
 #########################################
 
 echo "========================================="
